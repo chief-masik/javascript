@@ -1,4 +1,4 @@
-# Airrbbs JavaScript Style Guide() {
+# Airrbss JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
